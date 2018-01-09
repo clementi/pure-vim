@@ -1,6 +1,6 @@
 # Pure language support for Vim
 
-A simple Vim mode for the Pure programming language. It provides syntax highlighting only.
+A simple Vim mode for the [Pure programming language](https://agraef.github.io/pure-lang/). It provides syntax highlighting only.
 
 This script comes from the downloads at https://agraef.github.io/pure-lang/.
 
